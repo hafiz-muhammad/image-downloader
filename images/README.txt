@@ -1,0 +1,1 @@
+This subfolder is the default storage location for images.
