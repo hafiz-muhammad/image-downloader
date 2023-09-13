@@ -1,3 +1,4 @@
+# Author: https://github.com/hafiz-muhammad
 # Imports
 import urllib.request
 from PIL import Image
